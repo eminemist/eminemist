@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A FullStack developer</h3>
 
+<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminemist" alt="eminemist" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot , Figma and Swift**
